@@ -68,8 +68,9 @@ then load `git-escape-magic`.
 ### Zinit
 
 If you are using [Zinit](https://github.com/zdharma-continuum/zinit),
-you can load git-escape-magic by adding the following line to your `.zshrc`:
+you can load git-escape-magic by adding following lines to your `.zshrc`:
 ```zsh
+zinit ice wait
 zinit snippet https://github.com/knu/zsh-git-escape-magic/blob/main/git-escape-magic
 ```
 
