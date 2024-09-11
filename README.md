@@ -70,7 +70,7 @@ then load `git-escape-magic`.
 If you are using [Zinit](https://github.com/zdharma-continuum/zinit),
 you can load git-escape-magic by adding the following line to your `.zshrc`:
 ```zsh
-zinit snippet https://github.com/knu/zsh-git-escape-magic/blob/master/git-escape-magic
+zinit snippet https://github.com/knu/zsh-git-escape-magic/blob/main/git-escape-magic
 ```
 
 License
